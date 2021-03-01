@@ -10,7 +10,6 @@ import AlgoExpert.MaxSubsetSumNoAdjacent;
 public class JavaPracticeApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(JavaPracticeApplication.class, args);
 		
 		MatrixAndGraph.GenerateAdj_dict();
 		MatrixAndGraph.TraverseBFT();
